@@ -1,0 +1,23 @@
+ATIVIDADE COMPLEMENTAR 1
+1. No estudo dos autores, qual foi a proporção de projetos de software que falharam? Esse valor é confiável?
+Resposta:
+    O estudo envolveu 235 projetos, dos quais 70 foram considerados falhos pelos entrevistados.
+    Isto representa uma proporção de aproximadamente 30% de softwares falhos. No entanto, a pesquisa foi realizada com
+    base em questionários e entrevistas a diferentes profisisonais de desenvolvimento, que segundo o autor, gerou uma
+    certa margem de erro quando se tratava da classificação de alguns projetos em bem ou mal sucedidos. Esta ocorrência
+    se deve majoritaramente à posição de inadmissão por parte de alguns diretores a respeito de certos projetos que 
+    são considerados falhos.
+    
+2. A figura 1 apresenta os principais fatores de falhas em projetos de software e relações entre eles, mas não dá nome para essas relações. Escolha dois fatores que estejam relacionados e discuta qual a relação que você acha que existe entre elas, justificando sua resposta.
+Resposta:
+    A relação entre os fatores de falha "Schedule had an effect on team members" e "Inappropriate methodolgy" pode ser
+    traduzida basicamente em causa e consequência. Condições escassas de tempo ou períodos de trabalho muito
+    exigentes podem gerar más decisões ao empregar a metodologia mais adequada para o projeto, fazendo com que os 
+    desenvolvedores queiram utilizar um método mais rápido mas que possua muitos riscos, por exemplo.
+    
+3. Qual é a sugestão dos autores para que futuros projetos de software fracassem menos, e como essa sugestão ajudaria a melhorar os novos projetos?
+Resposta:
+    Segundo os autores, o maior foco de fatores de falha em projetos está relacionado com má ou pouca comunicação entre 
+    desenvolvedores e cliente. Muitos dos fatores listados são gerados por falta de especificações, que fazem
+    com que o projeto seja mal pressuposto em tempo de conclusão e funcionalidade. Desta forma, é sujerido que se invista
+    mais tempo em discussões com cliente e reavaliações do software juntamente com o diretor de projeto.
